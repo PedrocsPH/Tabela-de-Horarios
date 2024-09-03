@@ -1,0 +1,34 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.linha{
+    text-align: center;
+}
+
+.disciplina{
+    width: 100%;
+    display: block;
+    float: left;
+    height: 20px;
+}
+
+.corverde{
+    background-color: rgb(147, 232, 76);
+}
+.corbege{
+    background-color: rgb(241, 232, 164);
+}
+.corroxa{
+    background-color: rgb(230, 146, 230);
+}
+.corvermelha{
+    background-color: rgb(255, 113, 113);
+}
+.corazul{
+    background-color: rgb(93, 93, 248);
+}
+.corazulclaro{
+    background-color: rgb(155, 155, 230);
+}
